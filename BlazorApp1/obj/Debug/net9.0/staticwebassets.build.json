@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uLVe3qJVihm1rb4VXmg71QzR5QLOm3XzM8hdw3rQYpY=",
+  "Hash": "lM1wJ+3avO2yNxSFM36jzkZNyILK1AC0Qyaq2iXWYik=",
   "Source": "BlazorApp1",
   "BasePath": "_content/BlazorApp1",
   "Mode": "Default",
@@ -521,12 +521,12 @@
       "OriginalItemSpec": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/obj/Debug/net9.0/compressed/psnyflj9j1-pajcyyno6o.gz",
+      "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/obj/Debug/net9.0/compressed/psnyflj9j1-ho3576a57f.gz",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/BlazorApp1",
-      "RelativePath": "app#[.{fingerprint=pajcyyno6o}]?.css.gz",
+      "RelativePath": "app#[.{fingerprint=ho3576a57f}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -535,8 +535,8 @@
       "RelatedAsset": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "dvf2oz5r52",
-      "Integrity": "2VC2bvwDY7ViDaU1A3AHe2Yven8WDMaHKi6W1VQMWpw=",
+      "Fingerprint": "hhsb32mw4a",
+      "Integrity": "CxAWZVlydPn0eMfUMKwX+vbbFsBAjQeDcUYMUjmU/Vk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/app.css"
@@ -1060,8 +1060,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "pajcyyno6o",
-      "Integrity": "T3lvMHM/vi2MR9h+zguyqtBmfR9vULcYFhPdlX2uWrg=",
+      "Fingerprint": "ho3576a57f",
+      "Integrity": "Hz+IY6bsfmew6Kk484TdiXLhV/fPgs8dlC/DK2nyNJA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/app.css"
@@ -2243,12 +2243,12 @@
       "OriginalItemSpec": "wwwroot/players/carsonbeck.png"
     },
     {
-      "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/colestoneloveland.png",
+      "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/colstonloveland.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/",
       "BasePath": "_content/BlazorApp1",
-      "RelativePath": "players/colestoneloveland#[.{fingerprint}]?.png",
+      "RelativePath": "players/colstonloveland#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2261,7 +2261,7 @@
       "Integrity": "eYHjnLKDTsF6YhbAESfumVf+PhlUwDa0704Fordqna0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/players/colestoneloveland.png"
+      "OriginalItemSpec": "wwwroot/players/colstonloveland.png"
     },
     {
       "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/deonewalker.png",
@@ -3002,12 +3002,12 @@
   "Endpoints": [
     {
       "Route": "app.css",
-      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/obj/Debug/net9.0/compressed/psnyflj9j1-pajcyyno6o.gz",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/obj/Debug/net9.0/compressed/psnyflj9j1-ho3576a57f.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001149425287"
+          "Quality": "0.001137656428"
         }
       ],
       "ResponseHeaders": [
@@ -3017,15 +3017,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "869"
+          "Value": "878"
         },
         {
           "Name": "ETag",
-          "Value": "\"2VC2bvwDY7ViDaU1A3AHe2Yven8WDMaHKi6W1VQMWpw=\""
+          "Value": "\"CxAWZVlydPn0eMfUMKwX+vbbFsBAjQeDcUYMUjmU/Vk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Apr 2025 23:14:10 GMT"
+          "Value": "Thu, 24 Apr 2025 23:35:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3045,13 +3045,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"T3lvMHM/vi2MR9h+zguyqtBmfR9vULcYFhPdlX2uWrg=\""
+          "Value": "W/\"Hz+IY6bsfmew6Kk484TdiXLhV/fPgs8dlC/DK2nyNJA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-T3lvMHM/vi2MR9h+zguyqtBmfR9vULcYFhPdlX2uWrg="
+          "Value": "sha256-Hz+IY6bsfmew6Kk484TdiXLhV/fPgs8dlC/DK2nyNJA="
         }
       ]
     },
@@ -3066,7 +3066,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2136"
+          "Value": "2156"
         },
         {
           "Name": "Content-Type",
@@ -3074,11 +3074,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"T3lvMHM/vi2MR9h+zguyqtBmfR9vULcYFhPdlX2uWrg=\""
+          "Value": "\"Hz+IY6bsfmew6Kk484TdiXLhV/fPgs8dlC/DK2nyNJA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Apr 2025 23:14:10 GMT"
+          "Value": "Thu, 24 Apr 2025 23:35:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3088,13 +3088,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-T3lvMHM/vi2MR9h+zguyqtBmfR9vULcYFhPdlX2uWrg="
+          "Value": "sha256-Hz+IY6bsfmew6Kk484TdiXLhV/fPgs8dlC/DK2nyNJA="
         }
       ]
     },
     {
       "Route": "app.css.gz",
-      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/obj/Debug/net9.0/compressed/psnyflj9j1-pajcyyno6o.gz",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/obj/Debug/net9.0/compressed/psnyflj9j1-ho3576a57f.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3103,7 +3103,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "869"
+          "Value": "878"
         },
         {
           "Name": "Content-Type",
@@ -3111,11 +3111,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2VC2bvwDY7ViDaU1A3AHe2Yven8WDMaHKi6W1VQMWpw=\""
+          "Value": "\"CxAWZVlydPn0eMfUMKwX+vbbFsBAjQeDcUYMUjmU/Vk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Apr 2025 23:14:10 GMT"
+          "Value": "Thu, 24 Apr 2025 23:35:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3133,18 +3133,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2VC2bvwDY7ViDaU1A3AHe2Yven8WDMaHKi6W1VQMWpw="
+          "Value": "sha256-CxAWZVlydPn0eMfUMKwX+vbbFsBAjQeDcUYMUjmU/Vk="
         }
       ]
     },
     {
-      "Route": "app.pajcyyno6o.css",
-      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/obj/Debug/net9.0/compressed/psnyflj9j1-pajcyyno6o.gz",
+      "Route": "app.ho3576a57f.css",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/obj/Debug/net9.0/compressed/psnyflj9j1-ho3576a57f.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001149425287"
+          "Quality": "0.001137656428"
         }
       ],
       "ResponseHeaders": [
@@ -3154,15 +3154,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "869"
+          "Value": "878"
         },
         {
           "Name": "ETag",
-          "Value": "\"2VC2bvwDY7ViDaU1A3AHe2Yven8WDMaHKi6W1VQMWpw=\""
+          "Value": "\"CxAWZVlydPn0eMfUMKwX+vbbFsBAjQeDcUYMUjmU/Vk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Apr 2025 23:14:10 GMT"
+          "Value": "Thu, 24 Apr 2025 23:35:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3182,13 +3182,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"T3lvMHM/vi2MR9h+zguyqtBmfR9vULcYFhPdlX2uWrg=\""
+          "Value": "W/\"Hz+IY6bsfmew6Kk484TdiXLhV/fPgs8dlC/DK2nyNJA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pajcyyno6o"
+          "Value": "ho3576a57f"
         },
         {
           "Name": "label",
@@ -3196,12 +3196,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-T3lvMHM/vi2MR9h+zguyqtBmfR9vULcYFhPdlX2uWrg="
+          "Value": "sha256-Hz+IY6bsfmew6Kk484TdiXLhV/fPgs8dlC/DK2nyNJA="
         }
       ]
     },
     {
-      "Route": "app.pajcyyno6o.css",
+      "Route": "app.ho3576a57f.css",
       "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3211,7 +3211,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2136"
+          "Value": "2156"
         },
         {
           "Name": "Content-Type",
@@ -3219,11 +3219,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"T3lvMHM/vi2MR9h+zguyqtBmfR9vULcYFhPdlX2uWrg=\""
+          "Value": "\"Hz+IY6bsfmew6Kk484TdiXLhV/fPgs8dlC/DK2nyNJA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Apr 2025 23:14:10 GMT"
+          "Value": "Thu, 24 Apr 2025 23:35:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3233,7 +3233,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pajcyyno6o"
+          "Value": "ho3576a57f"
         },
         {
           "Name": "label",
@@ -3241,13 +3241,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-T3lvMHM/vi2MR9h+zguyqtBmfR9vULcYFhPdlX2uWrg="
+          "Value": "sha256-Hz+IY6bsfmew6Kk484TdiXLhV/fPgs8dlC/DK2nyNJA="
         }
       ]
     },
     {
-      "Route": "app.pajcyyno6o.css.gz",
-      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/obj/Debug/net9.0/compressed/psnyflj9j1-pajcyyno6o.gz",
+      "Route": "app.ho3576a57f.css.gz",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/obj/Debug/net9.0/compressed/psnyflj9j1-ho3576a57f.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3256,7 +3256,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "869"
+          "Value": "878"
         },
         {
           "Name": "Content-Type",
@@ -3264,11 +3264,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2VC2bvwDY7ViDaU1A3AHe2Yven8WDMaHKi6W1VQMWpw=\""
+          "Value": "\"CxAWZVlydPn0eMfUMKwX+vbbFsBAjQeDcUYMUjmU/Vk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Apr 2025 23:14:10 GMT"
+          "Value": "Thu, 24 Apr 2025 23:35:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3286,7 +3286,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pajcyyno6o"
+          "Value": "ho3576a57f"
         },
         {
           "Name": "label",
@@ -3294,7 +3294,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2VC2bvwDY7ViDaU1A3AHe2Yven8WDMaHKi6W1VQMWpw="
+          "Value": "sha256-CxAWZVlydPn0eMfUMKwX+vbbFsBAjQeDcUYMUjmU/Vk="
         }
       ]
     },
@@ -17991,8 +17991,8 @@
       ]
     },
     {
-      "Route": "players/colestoneloveland.907o8o6e4c.png",
-      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/colestoneloveland.png",
+      "Route": "players/colstonloveland.907o8o6e4c.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/colstonloveland.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18027,7 +18027,7 @@
         },
         {
           "Name": "label",
-          "Value": "players/colestoneloveland.png"
+          "Value": "players/colstonloveland.png"
         },
         {
           "Name": "integrity",
@@ -18036,8 +18036,8 @@
       ]
     },
     {
-      "Route": "players/colestoneloveland.png",
-      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/colestoneloveland.png",
+      "Route": "players/colstonloveland.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/colstonloveland.png",
       "Selectors": [],
       "ResponseHeaders": [
         {

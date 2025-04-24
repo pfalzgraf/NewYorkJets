@@ -36,7 +36,6 @@ h1:focus {
     color: #e50000;
 }
 
-/* === Updated Layout for 10 Players Per Column === */
 .player-list {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
