@@ -1,7 +1,6 @@
 # New York Jets Fan Website 
 
-FOR EDUCATIONAL PURPOSES ONLY! I do not make money off of this in any way. This is using the default razor template. All the naming conventions might not be
-proper or make much sense. I'm familiarizing myself with this environment. Thank you!
+FOR EDUCATIONAL PURPOSES ONLY! I do not make money off of this in any way. This is using the default razor template. I'm familiarizing myself with this environment. Thank you!
 Welcome to the **New York Jets Fan Website**, your ultimate destination for everything related to the New York Jets! Whether you're looking for the latest team roster, analysis on the team's needs, available players, or a deep dive into the Jets' draft history, this website has it all.
 
 ## Features
