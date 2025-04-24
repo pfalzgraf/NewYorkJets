@@ -23,7 +23,7 @@ Browse a list of free agents or players currently available in the market who mi
 ### 4. **Draft History**
 Dive into the New York Jets' draft history! From past draft picks to detailed insights about each player and how they contributed (or not) to the team's performance, it's all here.
 
-## Tech Stack
+## Libraries and Languages used
 
 - **C#**: The core programming language behind the site.
 - **Razor Pages**: For rendering dynamic views and managing user requests.
