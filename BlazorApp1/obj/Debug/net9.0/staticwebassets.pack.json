@@ -201,6 +201,10 @@
       "PackagePath": "staticwebassets/players/abdulcarter.png"
     },
     {
+      "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/aireontaeersery.png",
+      "PackagePath": "staticwebassets/players/aireontaeersery.png"
+    },
+    {
       "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/armandmembou.png",
       "PackagePath": "staticwebassets/players/armandmembou.png"
     },
@@ -229,16 +233,40 @@
       "PackagePath": "staticwebassets/players/carsonbeck.png"
     },
     {
+      "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/colestoneloveland.png",
+      "PackagePath": "staticwebassets/players/colestoneloveland.png"
+    },
+    {
       "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/deonewalker.png",
       "PackagePath": "staticwebassets/players/deonewalker.png"
+    },
+    {
+      "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/elicayomanor.png",
+      "PackagePath": "staticwebassets/players/elicayomanor.png"
     },
     {
       "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/emeryjones.png",
       "PackagePath": "staticwebassets/players/emeryjones.png"
     },
     {
+      "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/isaiahbond.png",
+      "PackagePath": "staticwebassets/players/isaiahbond.png"
+    },
+    {
       "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/isaiahdavis.png",
       "PackagePath": "staticwebassets/players/isaiahdavis.png"
+    },
+    {
+      "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jabbarmuhammad.png",
+      "PackagePath": "staticwebassets/players/jabbarmuhammad.png"
+    },
+    {
+      "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jacksawyer.png",
+      "PackagePath": "staticwebassets/players/jacksawyer.png"
+    },
+    {
+      "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jalenmilroe.png",
+      "PackagePath": "staticwebassets/players/jalenmilroe.png"
     },
     {
       "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jalonwalker.png",
@@ -249,8 +277,16 @@
       "PackagePath": "staticwebassets/players/jamespearce.png"
     },
     {
+      "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jonahsavaiinaea.png",
+      "PackagePath": "staticwebassets/players/jonahsavaiinaea.png"
+    },
+    {
       "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jordantravis.png",
       "PackagePath": "staticwebassets/players/jordantravis.png"
+    },
+    {
+      "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jttuimoloau.png",
+      "PackagePath": "staticwebassets/players/jttuimoloau.png"
     },
     {
       "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/justinfields.png",
@@ -263,6 +299,10 @@
     {
       "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/kenenwangwu.png",
       "PackagePath": "staticwebassets/players/kenenwangwu.png"
+    },
+    {
+      "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/kennethgrant.png",
+      "PackagePath": "staticwebassets/players/kennethgrant.png"
     },
     {
       "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/lutherburden.png",
@@ -293,12 +333,36 @@
       "PackagePath": "staticwebassets/players/mykelwilliams.png"
     },
     {
+      "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/nicscourton.png",
+      "PackagePath": "staticwebassets/players/nicscourton.png"
+    },
+    {
+      "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/omarionhampton.png",
+      "PackagePath": "staticwebassets/players/omarionhampton.png"
+    },
+    {
+      "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/shavonreveljr.png",
+      "PackagePath": "staticwebassets/players/shavonreveljr.png"
+    },
+    {
+      "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/shedeursanders.png",
+      "PackagePath": "staticwebassets/players/shedeursanders.png"
+    },
+    {
+      "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/tacariodavis.png",
+      "PackagePath": "staticwebassets/players/tacariodavis.png"
+    },
+    {
       "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/tetairoamcmillan.png",
       "PackagePath": "staticwebassets/players/tetairoamcmillan.png"
     },
     {
       "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/travishunter.png",
       "PackagePath": "staticwebassets/players/travishunter.png"
+    },
+    {
+      "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/tyleikwilliams.png",
+      "PackagePath": "staticwebassets/players/tyleikwilliams.png"
     },
     {
       "Id": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/tyrodtaylor.png",

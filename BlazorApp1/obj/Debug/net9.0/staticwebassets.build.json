@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "E3umc6Z8IwpTPnE2ws6EwBg2Ygg+74tkbFQ6FtKjzQQ=",
+  "Hash": "uLVe3qJVihm1rb4VXmg71QzR5QLOm3XzM8hdw3rQYpY=",
   "Source": "BlazorApp1",
   "BasePath": "_content/BlazorApp1",
   "Mode": "Default",
@@ -521,12 +521,12 @@
       "OriginalItemSpec": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/obj/Debug/net9.0/compressed/psnyflj9j1-3mkyb8xi6m.gz",
+      "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/obj/Debug/net9.0/compressed/psnyflj9j1-pajcyyno6o.gz",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/BlazorApp1",
-      "RelativePath": "app#[.{fingerprint=3mkyb8xi6m}]?.css.gz",
+      "RelativePath": "app#[.{fingerprint=pajcyyno6o}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -535,8 +535,8 @@
       "RelatedAsset": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "r40hrq8f69",
-      "Integrity": "FQLzj8uZ/gGvqW4hfaiIKFvBDMFjxkilem1GZDmKFnc=",
+      "Fingerprint": "dvf2oz5r52",
+      "Integrity": "2VC2bvwDY7ViDaU1A3AHe2Yven8WDMaHKi6W1VQMWpw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/app.css"
@@ -1060,8 +1060,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3mkyb8xi6m",
-      "Integrity": "JcgYHv5sF46PJNYAiY/Zk3+q2WwKqni4MBeIFuppdmA=",
+      "Fingerprint": "pajcyyno6o",
+      "Integrity": "T3lvMHM/vi2MR9h+zguyqtBmfR9vULcYFhPdlX2uWrg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/app.css"
@@ -2075,6 +2075,27 @@
       "OriginalItemSpec": "wwwroot/players/abdulcarter.png"
     },
     {
+      "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/aireontaeersery.png",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "players/aireontaeersery#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sa3rgjazd1",
+      "Integrity": "jBrOhGg9eu/sEL6PHGB9K48WKXrF39WlTfOor79i+3w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/players/aireontaeersery.png"
+    },
+    {
       "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/armandmembou.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
@@ -2222,6 +2243,27 @@
       "OriginalItemSpec": "wwwroot/players/carsonbeck.png"
     },
     {
+      "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/colestoneloveland.png",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "players/colestoneloveland#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "907o8o6e4c",
+      "Integrity": "eYHjnLKDTsF6YhbAESfumVf+PhlUwDa0704Fordqna0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/players/colestoneloveland.png"
+    },
+    {
       "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/deonewalker.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
@@ -2241,6 +2283,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/players/deonewalker.png"
+    },
+    {
+      "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/elicayomanor.png",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "players/elicayomanor#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "19yceukr46",
+      "Integrity": "ZT5Z7HAcWm5Y1oV/mBXqOYZpKjveLCeL5ylHBL3cjo0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/players/elicayomanor.png"
     },
     {
       "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/emeryjones.png",
@@ -2264,6 +2327,27 @@
       "OriginalItemSpec": "wwwroot/players/emeryjones.png"
     },
     {
+      "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/isaiahbond.png",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "players/isaiahbond#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ljn7zkx7r2",
+      "Integrity": "8RUTt1H7IQ0iA+zVNTXuINQjuBzeH/Ynki5CpzOSjv0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/players/isaiahbond.png"
+    },
+    {
       "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/isaiahdavis.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
@@ -2283,6 +2367,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/players/isaiahdavis.png"
+    },
+    {
+      "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jabbarmuhammad.png",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "players/jabbarmuhammad#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0uogoy49ps",
+      "Integrity": "uEEC8bynEb0bmNl902aOGw3WTDUThAMOwIo5fK/q7NI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/players/jabbarmuhammad.png"
+    },
+    {
+      "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jacksawyer.png",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "players/jacksawyer#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "04bz2fvb2r",
+      "Integrity": "AE/2hhmLzPXPV18iN+LNPjhxt4SUfNyhY8lR8kJpyYg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/players/jacksawyer.png"
+    },
+    {
+      "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jalenmilroe.png",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "players/jalenmilroe#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "68iyq383qu",
+      "Integrity": "xhYofOYTPEUGnMIOPGP6xQ/O4AD1JdKNzUGdRc8sE/k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/players/jalenmilroe.png"
     },
     {
       "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jalonwalker.png",
@@ -2327,6 +2474,27 @@
       "OriginalItemSpec": "wwwroot/players/jamespearce.png"
     },
     {
+      "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jonahsavaiinaea.png",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "players/jonahsavaiinaea#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g5ho57ognt",
+      "Integrity": "LHL7xzDhO3bKBP4tTntwblpvDFufvDaFrmN0iCYpO9s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/players/jonahsavaiinaea.png"
+    },
+    {
       "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jordantravis.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
@@ -2346,6 +2514,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/players/jordantravis.png"
+    },
+    {
+      "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jttuimoloau.png",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "players/jttuimoloau#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zjgvfjh1om",
+      "Integrity": "ca8AEgqTFAXVqN+M/60weTpUK9ArPkHeJL0yeJ/OIkY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/players/jttuimoloau.png"
     },
     {
       "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/justinfields.png",
@@ -2409,6 +2598,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/players/kenenwangwu.png"
+    },
+    {
+      "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/kennethgrant.png",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "players/kennethgrant#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0jb4e8j23j",
+      "Integrity": "pE5nDL+2uOTjqHAqDEjkxTRLMyJEblr0uA0x4gbJke4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/players/kennethgrant.png"
     },
     {
       "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/lutherburden.png",
@@ -2558,6 +2768,111 @@
       "OriginalItemSpec": "wwwroot/players/mykelwilliams.png"
     },
     {
+      "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/nicscourton.png",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "players/nicscourton#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fm8s8aeljp",
+      "Integrity": "p6pAH9TUhj8e5ozedQW4JRpmMyW+bGEvWL3z7n5p2hw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/players/nicscourton.png"
+    },
+    {
+      "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/omarionhampton.png",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "players/omarionhampton#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jffeb9all8",
+      "Integrity": "n9Qa3jb9tZICHd/HSm9DEdv1gbO+8GbI/gndK8ytibs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/players/omarionhampton.png"
+    },
+    {
+      "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/shavonreveljr.png",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "players/shavonreveljr#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xwe0aysi7f",
+      "Integrity": "f2L8pTNC6OH5BdQfWTppYJ3Nf2r31PQbn47KXMahSKM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/players/shavonreveljr.png"
+    },
+    {
+      "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/shedeursanders.png",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "players/shedeursanders#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4gdq0a52o7",
+      "Integrity": "lP64z+nyOjpjuo1HGQZeR3QBBdGc9c2kBREI7CJoZos=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/players/shedeursanders.png"
+    },
+    {
+      "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/tacariodavis.png",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "players/tacariodavis#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k6l1vjn8jh",
+      "Integrity": "fDypL3SCw7pw2e07lg2uGDqA2XK6BGtHBBjePi0UUXo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/players/tacariodavis.png"
+    },
+    {
       "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/tetairoamcmillan.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
@@ -2598,6 +2913,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/players/travishunter.png"
+    },
+    {
+      "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/tyleikwilliams.png",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "players/tyleikwilliams#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1eo5h75f8n",
+      "Integrity": "uUd3O8uu1VQMJvfjl2cWS1dsFLi02R8GlqeUCIfwfvA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/players/tyleikwilliams.png"
     },
     {
       "Identity": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/tyrodtaylor.png",
@@ -2665,13 +3001,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "app.3mkyb8xi6m.css",
-      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/obj/Debug/net9.0/compressed/psnyflj9j1-3mkyb8xi6m.gz",
+      "Route": "app.css",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/obj/Debug/net9.0/compressed/psnyflj9j1-pajcyyno6o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000541125541"
+          "Quality": "0.001149425287"
         }
       ],
       "ResponseHeaders": [
@@ -2681,19 +3017,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1847"
+          "Value": "869"
         },
         {
           "Name": "ETag",
-          "Value": "\"FQLzj8uZ/gGvqW4hfaiIKFvBDMFjxkilem1GZDmKFnc=\""
+          "Value": "\"2VC2bvwDY7ViDaU1A3AHe2Yven8WDMaHKi6W1VQMWpw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Apr 2025 17:34:11 GMT"
+          "Value": "Thu, 24 Apr 2025 23:14:10 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2709,26 +3045,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"JcgYHv5sF46PJNYAiY/Zk3+q2WwKqni4MBeIFuppdmA=\""
+          "Value": "W/\"T3lvMHM/vi2MR9h+zguyqtBmfR9vULcYFhPdlX2uWrg=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "3mkyb8xi6m"
-        },
-        {
-          "Name": "label",
-          "Value": "app.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-JcgYHv5sF46PJNYAiY/Zk3+q2WwKqni4MBeIFuppdmA="
+          "Value": "sha256-T3lvMHM/vi2MR9h+zguyqtBmfR9vULcYFhPdlX2uWrg="
         }
       ]
     },
     {
-      "Route": "app.3mkyb8xi6m.css",
+      "Route": "app.css",
       "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2738,7 +3066,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3664"
+          "Value": "2136"
         },
         {
           "Name": "Content-Type",
@@ -2746,11 +3074,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JcgYHv5sF46PJNYAiY/Zk3+q2WwKqni4MBeIFuppdmA=\""
+          "Value": "\"T3lvMHM/vi2MR9h+zguyqtBmfR9vULcYFhPdlX2uWrg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Apr 2025 17:34:11 GMT"
+          "Value": "Thu, 24 Apr 2025 23:14:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T3lvMHM/vi2MR9h+zguyqtBmfR9vULcYFhPdlX2uWrg="
+        }
+      ]
+    },
+    {
+      "Route": "app.css.gz",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/obj/Debug/net9.0/compressed/psnyflj9j1-pajcyyno6o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "869"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2VC2bvwDY7ViDaU1A3AHe2Yven8WDMaHKi6W1VQMWpw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:14:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2VC2bvwDY7ViDaU1A3AHe2Yven8WDMaHKi6W1VQMWpw="
+        }
+      ]
+    },
+    {
+      "Route": "app.pajcyyno6o.css",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/obj/Debug/net9.0/compressed/psnyflj9j1-pajcyyno6o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001149425287"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "869"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2VC2bvwDY7ViDaU1A3AHe2Yven8WDMaHKi6W1VQMWpw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:14:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"T3lvMHM/vi2MR9h+zguyqtBmfR9vULcYFhPdlX2uWrg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pajcyyno6o"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T3lvMHM/vi2MR9h+zguyqtBmfR9vULcYFhPdlX2uWrg="
+        }
+      ]
+    },
+    {
+      "Route": "app.pajcyyno6o.css",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T3lvMHM/vi2MR9h+zguyqtBmfR9vULcYFhPdlX2uWrg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:14:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2760,7 +3233,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3mkyb8xi6m"
+          "Value": "pajcyyno6o"
         },
         {
           "Name": "label",
@@ -2768,13 +3241,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JcgYHv5sF46PJNYAiY/Zk3+q2WwKqni4MBeIFuppdmA="
+          "Value": "sha256-T3lvMHM/vi2MR9h+zguyqtBmfR9vULcYFhPdlX2uWrg="
         }
       ]
     },
     {
-      "Route": "app.3mkyb8xi6m.css.gz",
-      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/obj/Debug/net9.0/compressed/psnyflj9j1-3mkyb8xi6m.gz",
+      "Route": "app.pajcyyno6o.css.gz",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/obj/Debug/net9.0/compressed/psnyflj9j1-pajcyyno6o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2783,7 +3256,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1847"
+          "Value": "869"
         },
         {
           "Name": "Content-Type",
@@ -2791,11 +3264,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FQLzj8uZ/gGvqW4hfaiIKFvBDMFjxkilem1GZDmKFnc=\""
+          "Value": "\"2VC2bvwDY7ViDaU1A3AHe2Yven8WDMaHKi6W1VQMWpw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Apr 2025 17:34:11 GMT"
+          "Value": "Thu, 24 Apr 2025 23:14:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2813,7 +3286,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3mkyb8xi6m"
+          "Value": "pajcyyno6o"
         },
         {
           "Name": "label",
@@ -2821,144 +3294,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FQLzj8uZ/gGvqW4hfaiIKFvBDMFjxkilem1GZDmKFnc="
-        }
-      ]
-    },
-    {
-      "Route": "app.css",
-      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/obj/Debug/net9.0/compressed/psnyflj9j1-3mkyb8xi6m.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000541125541"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1847"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FQLzj8uZ/gGvqW4hfaiIKFvBDMFjxkilem1GZDmKFnc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 24 Apr 2025 17:34:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"JcgYHv5sF46PJNYAiY/Zk3+q2WwKqni4MBeIFuppdmA=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-JcgYHv5sF46PJNYAiY/Zk3+q2WwKqni4MBeIFuppdmA="
-        }
-      ]
-    },
-    {
-      "Route": "app.css",
-      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/app.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3664"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JcgYHv5sF46PJNYAiY/Zk3+q2WwKqni4MBeIFuppdmA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 24 Apr 2025 17:34:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-JcgYHv5sF46PJNYAiY/Zk3+q2WwKqni4MBeIFuppdmA="
-        }
-      ]
-    },
-    {
-      "Route": "app.css.gz",
-      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/obj/Debug/net9.0/compressed/psnyflj9j1-3mkyb8xi6m.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1847"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FQLzj8uZ/gGvqW4hfaiIKFvBDMFjxkilem1GZDmKFnc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 24 Apr 2025 17:34:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-FQLzj8uZ/gGvqW4hfaiIKFvBDMFjxkilem1GZDmKFnc="
+          "Value": "sha256-2VC2bvwDY7ViDaU1A3AHe2Yven8WDMaHKi6W1VQMWpw="
         }
       ]
     },
@@ -16999,6 +17335,88 @@
       ]
     },
     {
+      "Route": "players/aireontaeersery.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/aireontaeersery.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jBrOhGg9eu/sEL6PHGB9K48WKXrF39WlTfOor79i+3w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jBrOhGg9eu/sEL6PHGB9K48WKXrF39WlTfOor79i+3w="
+        }
+      ]
+    },
+    {
+      "Route": "players/aireontaeersery.sa3rgjazd1.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/aireontaeersery.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jBrOhGg9eu/sEL6PHGB9K48WKXrF39WlTfOor79i+3w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sa3rgjazd1"
+        },
+        {
+          "Name": "label",
+          "Value": "players/aireontaeersery.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jBrOhGg9eu/sEL6PHGB9K48WKXrF39WlTfOor79i+3w="
+        }
+      ]
+    },
+    {
       "Route": "players/armandmembou.png",
       "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/armandmembou.png",
       "Selectors": [],
@@ -17573,6 +17991,88 @@
       ]
     },
     {
+      "Route": "players/colestoneloveland.907o8o6e4c.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/colestoneloveland.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "266839"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eYHjnLKDTsF6YhbAESfumVf+PhlUwDa0704Fordqna0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "907o8o6e4c"
+        },
+        {
+          "Name": "label",
+          "Value": "players/colestoneloveland.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eYHjnLKDTsF6YhbAESfumVf+PhlUwDa0704Fordqna0="
+        }
+      ]
+    },
+    {
+      "Route": "players/colestoneloveland.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/colestoneloveland.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "266839"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eYHjnLKDTsF6YhbAESfumVf+PhlUwDa0704Fordqna0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eYHjnLKDTsF6YhbAESfumVf+PhlUwDa0704Fordqna0="
+        }
+      ]
+    },
+    {
       "Route": "players/deonewalker.m0lcge5dq9.png",
       "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/deonewalker.png",
       "Selectors": [],
@@ -17651,6 +18151,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-mnKVnEASpxvMDL+x48rqf8KK3sO3TiiI0sJBKxIUAkA="
+        }
+      ]
+    },
+    {
+      "Route": "players/elicayomanor.19yceukr46.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/elicayomanor.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282329"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZT5Z7HAcWm5Y1oV/mBXqOYZpKjveLCeL5ylHBL3cjo0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "19yceukr46"
+        },
+        {
+          "Name": "label",
+          "Value": "players/elicayomanor.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZT5Z7HAcWm5Y1oV/mBXqOYZpKjveLCeL5ylHBL3cjo0="
+        }
+      ]
+    },
+    {
+      "Route": "players/elicayomanor.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/elicayomanor.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282329"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZT5Z7HAcWm5Y1oV/mBXqOYZpKjveLCeL5ylHBL3cjo0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZT5Z7HAcWm5Y1oV/mBXqOYZpKjveLCeL5ylHBL3cjo0="
         }
       ]
     },
@@ -17737,6 +18319,88 @@
       ]
     },
     {
+      "Route": "players/isaiahbond.ljn7zkx7r2.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/isaiahbond.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "313395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8RUTt1H7IQ0iA+zVNTXuINQjuBzeH/Ynki5CpzOSjv0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ljn7zkx7r2"
+        },
+        {
+          "Name": "label",
+          "Value": "players/isaiahbond.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8RUTt1H7IQ0iA+zVNTXuINQjuBzeH/Ynki5CpzOSjv0="
+        }
+      ]
+    },
+    {
+      "Route": "players/isaiahbond.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/isaiahbond.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "313395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8RUTt1H7IQ0iA+zVNTXuINQjuBzeH/Ynki5CpzOSjv0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8RUTt1H7IQ0iA+zVNTXuINQjuBzeH/Ynki5CpzOSjv0="
+        }
+      ]
+    },
+    {
       "Route": "players/isaiahdavis.10w50bcaee.png",
       "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/isaiahdavis.png",
       "Selectors": [],
@@ -17815,6 +18479,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-v4IdvS+9PR6gknMF0ChcAkR/rYwDrI4wBRZpNSZkITU="
+        }
+      ]
+    },
+    {
+      "Route": "players/jabbarmuhammad.0uogoy49ps.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jabbarmuhammad.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "290004"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uEEC8bynEb0bmNl902aOGw3WTDUThAMOwIo5fK/q7NI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0uogoy49ps"
+        },
+        {
+          "Name": "label",
+          "Value": "players/jabbarmuhammad.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uEEC8bynEb0bmNl902aOGw3WTDUThAMOwIo5fK/q7NI="
+        }
+      ]
+    },
+    {
+      "Route": "players/jabbarmuhammad.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jabbarmuhammad.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "290004"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uEEC8bynEb0bmNl902aOGw3WTDUThAMOwIo5fK/q7NI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uEEC8bynEb0bmNl902aOGw3WTDUThAMOwIo5fK/q7NI="
+        }
+      ]
+    },
+    {
+      "Route": "players/jacksawyer.04bz2fvb2r.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jacksawyer.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AE/2hhmLzPXPV18iN+LNPjhxt4SUfNyhY8lR8kJpyYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "04bz2fvb2r"
+        },
+        {
+          "Name": "label",
+          "Value": "players/jacksawyer.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AE/2hhmLzPXPV18iN+LNPjhxt4SUfNyhY8lR8kJpyYg="
+        }
+      ]
+    },
+    {
+      "Route": "players/jacksawyer.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jacksawyer.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AE/2hhmLzPXPV18iN+LNPjhxt4SUfNyhY8lR8kJpyYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AE/2hhmLzPXPV18iN+LNPjhxt4SUfNyhY8lR8kJpyYg="
+        }
+      ]
+    },
+    {
+      "Route": "players/jalenmilroe.68iyq383qu.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jalenmilroe.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "284722"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xhYofOYTPEUGnMIOPGP6xQ/O4AD1JdKNzUGdRc8sE/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "68iyq383qu"
+        },
+        {
+          "Name": "label",
+          "Value": "players/jalenmilroe.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xhYofOYTPEUGnMIOPGP6xQ/O4AD1JdKNzUGdRc8sE/k="
+        }
+      ]
+    },
+    {
+      "Route": "players/jalenmilroe.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jalenmilroe.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "284722"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xhYofOYTPEUGnMIOPGP6xQ/O4AD1JdKNzUGdRc8sE/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xhYofOYTPEUGnMIOPGP6xQ/O4AD1JdKNzUGdRc8sE/k="
         }
       ]
     },
@@ -17983,6 +18893,88 @@
       ]
     },
     {
+      "Route": "players/jonahsavaiinaea.g5ho57ognt.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jonahsavaiinaea.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "549321"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LHL7xzDhO3bKBP4tTntwblpvDFufvDaFrmN0iCYpO9s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g5ho57ognt"
+        },
+        {
+          "Name": "label",
+          "Value": "players/jonahsavaiinaea.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LHL7xzDhO3bKBP4tTntwblpvDFufvDaFrmN0iCYpO9s="
+        }
+      ]
+    },
+    {
+      "Route": "players/jonahsavaiinaea.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jonahsavaiinaea.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "549321"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LHL7xzDhO3bKBP4tTntwblpvDFufvDaFrmN0iCYpO9s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LHL7xzDhO3bKBP4tTntwblpvDFufvDaFrmN0iCYpO9s="
+        }
+      ]
+    },
+    {
       "Route": "players/jordantravis.png",
       "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jordantravis.png",
       "Selectors": [],
@@ -18061,6 +19053,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-KETaIyFjcMwPDh2m2xC6pXTv4atABrWUONfh2s6fCy8="
+        }
+      ]
+    },
+    {
+      "Route": "players/jttuimoloau.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jttuimoloau.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "306361"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ca8AEgqTFAXVqN+M/60weTpUK9ArPkHeJL0yeJ/OIkY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ca8AEgqTFAXVqN+M/60weTpUK9ArPkHeJL0yeJ/OIkY="
+        }
+      ]
+    },
+    {
+      "Route": "players/jttuimoloau.zjgvfjh1om.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/jttuimoloau.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "306361"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ca8AEgqTFAXVqN+M/60weTpUK9ArPkHeJL0yeJ/OIkY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zjgvfjh1om"
+        },
+        {
+          "Name": "label",
+          "Value": "players/jttuimoloau.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ca8AEgqTFAXVqN+M/60weTpUK9ArPkHeJL0yeJ/OIkY="
         }
       ]
     },
@@ -18307,6 +19381,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-q0ae6i752lFV34hEVBwGSHtcNgWfJuILtZX0K5UvN2c="
+        }
+      ]
+    },
+    {
+      "Route": "players/kennethgrant.0jb4e8j23j.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/kennethgrant.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "278727"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pE5nDL+2uOTjqHAqDEjkxTRLMyJEblr0uA0x4gbJke4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0jb4e8j23j"
+        },
+        {
+          "Name": "label",
+          "Value": "players/kennethgrant.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pE5nDL+2uOTjqHAqDEjkxTRLMyJEblr0uA0x4gbJke4="
+        }
+      ]
+    },
+    {
+      "Route": "players/kennethgrant.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/kennethgrant.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "278727"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pE5nDL+2uOTjqHAqDEjkxTRLMyJEblr0uA0x4gbJke4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pE5nDL+2uOTjqHAqDEjkxTRLMyJEblr0uA0x4gbJke4="
         }
       ]
     },
@@ -18885,6 +20041,416 @@
       ]
     },
     {
+      "Route": "players/nicscourton.fm8s8aeljp.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/nicscourton.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282341"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p6pAH9TUhj8e5ozedQW4JRpmMyW+bGEvWL3z7n5p2hw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fm8s8aeljp"
+        },
+        {
+          "Name": "label",
+          "Value": "players/nicscourton.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p6pAH9TUhj8e5ozedQW4JRpmMyW+bGEvWL3z7n5p2hw="
+        }
+      ]
+    },
+    {
+      "Route": "players/nicscourton.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/nicscourton.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282341"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p6pAH9TUhj8e5ozedQW4JRpmMyW+bGEvWL3z7n5p2hw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p6pAH9TUhj8e5ozedQW4JRpmMyW+bGEvWL3z7n5p2hw="
+        }
+      ]
+    },
+    {
+      "Route": "players/omarionhampton.jffeb9all8.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/omarionhampton.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "252249"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n9Qa3jb9tZICHd/HSm9DEdv1gbO+8GbI/gndK8ytibs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jffeb9all8"
+        },
+        {
+          "Name": "label",
+          "Value": "players/omarionhampton.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-n9Qa3jb9tZICHd/HSm9DEdv1gbO+8GbI/gndK8ytibs="
+        }
+      ]
+    },
+    {
+      "Route": "players/omarionhampton.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/omarionhampton.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "252249"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n9Qa3jb9tZICHd/HSm9DEdv1gbO+8GbI/gndK8ytibs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-n9Qa3jb9tZICHd/HSm9DEdv1gbO+8GbI/gndK8ytibs="
+        }
+      ]
+    },
+    {
+      "Route": "players/shavonreveljr.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/shavonreveljr.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "275796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f2L8pTNC6OH5BdQfWTppYJ3Nf2r31PQbn47KXMahSKM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f2L8pTNC6OH5BdQfWTppYJ3Nf2r31PQbn47KXMahSKM="
+        }
+      ]
+    },
+    {
+      "Route": "players/shavonreveljr.xwe0aysi7f.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/shavonreveljr.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "275796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f2L8pTNC6OH5BdQfWTppYJ3Nf2r31PQbn47KXMahSKM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xwe0aysi7f"
+        },
+        {
+          "Name": "label",
+          "Value": "players/shavonreveljr.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f2L8pTNC6OH5BdQfWTppYJ3Nf2r31PQbn47KXMahSKM="
+        }
+      ]
+    },
+    {
+      "Route": "players/shedeursanders.4gdq0a52o7.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/shedeursanders.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "233139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lP64z+nyOjpjuo1HGQZeR3QBBdGc9c2kBREI7CJoZos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4gdq0a52o7"
+        },
+        {
+          "Name": "label",
+          "Value": "players/shedeursanders.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lP64z+nyOjpjuo1HGQZeR3QBBdGc9c2kBREI7CJoZos="
+        }
+      ]
+    },
+    {
+      "Route": "players/shedeursanders.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/shedeursanders.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "233139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lP64z+nyOjpjuo1HGQZeR3QBBdGc9c2kBREI7CJoZos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lP64z+nyOjpjuo1HGQZeR3QBBdGc9c2kBREI7CJoZos="
+        }
+      ]
+    },
+    {
+      "Route": "players/tacariodavis.k6l1vjn8jh.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/tacariodavis.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "355797"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fDypL3SCw7pw2e07lg2uGDqA2XK6BGtHBBjePi0UUXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k6l1vjn8jh"
+        },
+        {
+          "Name": "label",
+          "Value": "players/tacariodavis.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fDypL3SCw7pw2e07lg2uGDqA2XK6BGtHBBjePi0UUXo="
+        }
+      ]
+    },
+    {
+      "Route": "players/tacariodavis.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/tacariodavis.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "355797"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fDypL3SCw7pw2e07lg2uGDqA2XK6BGtHBBjePi0UUXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fDypL3SCw7pw2e07lg2uGDqA2XK6BGtHBBjePi0UUXo="
+        }
+      ]
+    },
+    {
       "Route": "players/tetairoamcmillan.0jv8dqz4u9.png",
       "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/tetairoamcmillan.png",
       "Selectors": [],
@@ -19045,6 +20611,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-lpYOVa7P82GcKl/qzNaMjmgd0JvqmcruMd3sHzOQlT0="
+        }
+      ]
+    },
+    {
+      "Route": "players/tyleikwilliams.1eo5h75f8n.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/tyleikwilliams.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "254934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uUd3O8uu1VQMJvfjl2cWS1dsFLi02R8GlqeUCIfwfvA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1eo5h75f8n"
+        },
+        {
+          "Name": "label",
+          "Value": "players/tyleikwilliams.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uUd3O8uu1VQMJvfjl2cWS1dsFLi02R8GlqeUCIfwfvA="
+        }
+      ]
+    },
+    {
+      "Route": "players/tyleikwilliams.png",
+      "AssetFile": "/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/wwwroot/players/tyleikwilliams.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "254934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uUd3O8uu1VQMJvfjl2cWS1dsFLi02R8GlqeUCIfwfvA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 23:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uUd3O8uu1VQMJvfjl2cWS1dsFLi02R8GlqeUCIfwfvA="
         }
       ]
     },
