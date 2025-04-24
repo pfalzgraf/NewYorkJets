@@ -24,20 +24,20 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/Components/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Db3VudGVyLnJhem9y
+[/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/Components/Pages/AvailablePlayers.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BdmFpbGFibGVQbGF5ZXJzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
+[/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/Components/Pages/Roster.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Sb3N0ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/Components/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9JbmRleC5yYXpvcg==
+[/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/Components/Pages/TeamNeeds.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UZWFtTmVlZHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/nickpfalzgraf/RiderProjects/BlazorApp1/BlazorApp1/Components/Pages/Weather.razor]
