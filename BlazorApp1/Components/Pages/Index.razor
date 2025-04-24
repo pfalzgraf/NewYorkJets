@@ -1,0 +1,65 @@
+@page "/roster"
+@using BlazorApp1.Models
+@rendermode InteractiveServer
+
+<PageTitle>Current Players</PageTitle>
+
+<h1>Roster</h1>
+
+<div class="player-list">
+    @foreach (var player in players)
+    {
+        <div class="player-card">
+            <img src="@player.ImageUrl" alt="@player.Name" class="player-image" />
+            <div class="player-info">
+                <h4>@player.Name</h4>
+                <p><strong>College:</strong> @player.College</p>
+                <p><strong>Position:</strong> @player.Position</p>
+            </div>
+        </div>
+    }
+</div>
+
+@code {
+
+    private List<Player> players = new()
+    {
+        new Player { Name = "Justin Fields", ImageUrl = "players/justinfields.png", College = "Ohio State", Position = "QB", OverallRank = "" },
+        new Player { Name = "Tyrod Taylor", ImageUrl = "players/tyrodtaylor.png", College = "Virginia Tech", Position = "QB", OverallRank = "" },
+        new Player { Name = "Jordan Travis", ImageUrl = "players/jordantravis.png", College = "Florida State", Position = "QB", OverallRank = "" },
+        new Player { Name = "Breece Hall", ImageUrl = "players/breecehall.png", College = "Iowa State", Position = "RB", OverallRank = "" },
+        new Player { Name = "Braelon Allen", ImageUrl = "players/braelonallen.png", College = "Wisconsin", Position = "RB", OverallRank = "" },
+        new Player { Name = "Isaiah Davis", ImageUrl = "players/isaiahdavis.png", College = "South Dakota State", Position = "RB", OverallRank = "" },
+        new Player { Name = "Kene Nwangwu", ImageUrl = "players/kenenwangwu.png", College = "Iowa State", Position = "RB", OverallRank = "" },
+        new Player { Name = "Zach Evans", ImageUrl = "players/zachevans.png", College = "Ole Miss", Position = "RB", OverallRank = "" },
+        new Player { Name = "Garrett Wilson", ImageUrl = "players/garrettwilson.png", College = "Ohio State", Position = "WR", OverallRank = "" },
+        new Player { Name = "Allen Lazard", ImageUrl = "players/allenlazard.png", College = "Iowa State", Position = "WR", OverallRank = "" },
+        new Player { Name = "Malachi Corley", ImageUrl = "players/malachicorley.png", College = "Western Kentucky", Position = "WR", OverallRank = "" },
+        new Player { Name = "Josh Reynolds", ImageUrl = "players/joshreynolds.png", College = "Texas A&M", Position = "WR", OverallRank = "" },
+        new Player { Name = "Xavier Gipson", ImageUrl = "players/xaviergipson.png", College = "Stephen F. Austin", Position = "WR", OverallRank = "" },
+        new Player { Name = "Brandon Smith", ImageUrl = "players/brandonsmith.png", College = "Iowa", Position = "WR", OverallRank = "" },
+        new Player { Name = "Marcus Riley", ImageUrl = "players/marcusriley.png", College = "Florida A&M", Position = "WR", OverallRank = "" },
+        new Player { Name = "Easop Winston", ImageUrl = "players/easopwinston.png", College = "Washington State", Position = "WR", OverallRank = "" },
+        new Player { Name = "Jeremy Ruckert", ImageUrl = "players/jeremyruckert.png", College = "Ohio State", Position = "TE", OverallRank = "" },
+        new Player { Name = "Zack Kuntz", ImageUrl = "players/zackkuntz.png", College = "Old Dominion", Position = "TE", OverallRank = "" },
+        new Player { Name = "Neal Johnson", ImageUrl = "players/nealjohnson.png", College = "Louisiana", Position = "TE", OverallRank = "" },
+        new Player { Name = "Stone Smartt", ImageUrl = "players/stonesmartt.png", College = "Old Dominion", Position = "TE", OverallRank = "" },
+        new Player { Name = "Andrew Beck", ImageUrl = "players/andrewbeck.png", College = "Texas", Position = "FB", OverallRank = "" },
+        new Player { Name = "Alijah Vera-Tucker", ImageUrl = "players/alijahveratucker.png", College = "USC", Position = "G", OverallRank = "" },
+        new Player { Name = "Joe Tippmann", ImageUrl = "players/joetippmann.png", College = "Wisconsin", Position = "C", OverallRank = "" },
+        new Player { Name = "Josh Myers", ImageUrl = "players/joshmyers.png", College = "Ohio State", Position = "C", OverallRank = "" },
+        new Player { Name = "Carter Warren", ImageUrl = "players/carterwarren.png", College = "Pittsburgh", Position = "OT", OverallRank = "" },
+        new Player { Name = "Chukwuma Okorafor", ImageUrl = "players/chukwumaokorafor.png", College = "Western Michigan", Position = "OT", OverallRank = "" },
+        new Player { Name = "Xavier Newman", ImageUrl = "players/xaviernewman.png", College = "Baylor", Position = "OL", OverallRank = "" },
+        new Player { Name = "Zack Bailey", ImageUrl = "players/zackbailey.png", College = "South Carolina", Position = "OL", OverallRank = "" },
+        new Player { Name = "Quinnen Williams", ImageUrl = "players/quinnenwilliams.png", College = "Alabama", Position = "DT", OverallRank = "" },
+        new Player { Name = "Leonard Taylor III", ImageUrl = "players/leonardtaylor.png", College = "Miami (FL)", Position = "DT", OverallRank = "" },
+        new Player { Name = "Jay Tufele", ImageUrl = "players/jaytufele.png", College = "USC", Position = "DT", OverallRank = "" },
+        new Player { Name = "Derrick Nnadi", ImageUrl = "players/derricknnadi.png", College = "Florida State", Position = "DT", OverallRank = "" },
+        new Player { Name = "Jermaine Johnson II", ImageUrl = "players/jermainejohnson.png", College = "Florida State", Position = "DE", OverallRank = "" },
+        new Player { Name = "Eric Watts", ImageUrl = "players/ericwatts.png", College = "Connecticut", Position = "DE", OverallRank = "" },
+        new Player { Name = "Rashad Weaver", ImageUrl = "players/rashadweaver.png", College = "Pittsburgh", Position = "LB", OverallRank = "" },
+        new Player { Name = "Quincy Williams", ImageUrl = "players/quincywilliams.png", College = "Murray State", Position = "LB", OverallRank = "" },
+    };
+
+}

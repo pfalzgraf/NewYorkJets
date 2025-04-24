@@ -1,0 +1,26 @@
+﻿@inherits LayoutComponentBase
+
+<div class="page">
+    <main>
+        
+        <header class="navbar">
+        <a href="/" class="navbar-brand">
+            <img src="newyorkjets.png" alt="Logo" style="margin-left: 10px; height: 60px; width: auto;" />
+            <!-- <span class="app-title">My Blazor App</span> -->
+        </a>
+        </header>
+        
+        
+        <div class="top-row px-2" style="padding-top: 0.1rem; padding-bottom: 0.1rem; height: 50px; text-align: left; background-color: #18543c;">
+            <NavLink class="nav-link" href="/roster" style="color: #ffffff;">Roster</NavLink>
+            <NavLink class="nav-link" href="/" style="color: #ffffff;">Team Needs</NavLink>
+            <NavLink class="nav-link" href="/available-players" style="color: #ffffff;">Available Players</NavLink>
+            <a target="_blank" style="color: #ffffff;">Draft History</a>
+        </div>
+
+
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+</div>
