@@ -10,15 +10,15 @@ This site is built using **C#** and **Razor Pages**, ensuring a seamless and dyn
 
 ### 1. **Roster**
 The current New York Jets roster is always up-to-date. You can explore the full roster, complete with player stats, positions, and other relevant details.
-![My Image](./ReadMeImages/CurrentRoster.png)
+![My Image](./BlazorApp1/ReadMeImages/CurrentRoster.png)
 
 ### 2. **Team Needs**
 Check out the current team needs for the New York Jets, including positions that need improvement and potential areas the team might focus on in upcoming drafts or trades.
-![My Image](./ReadMeImages/TeamNeeds.png)
+![My Image](./BlazorApp1/ReadMeImages/TeamNeeds.png)
 
 ### 3. **Available Players**
 Browse a list of free agents or players currently available in the market who might be potential fits for the Jets. Filter by position, experience, or other key stats to find the perfect addition to the team.
-![My Image](./ReadMeImages/AvailablePlayers.png)
+![My Image](./BlazorApp1/ReadMeImages/AvailablePlayers.png)
 
 ### 4. **Draft History**
 Dive into the New York Jets' draft history! From past draft picks to detailed insights about each player and how they contributed (or not) to the team's performance, it's all here.
