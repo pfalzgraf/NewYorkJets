@@ -10,10 +10,12 @@ This site is built using **C#** and **Razor Pages**, ensuring a seamless and dyn
 
 ### 1. **Roster**
 The current New York Jets roster is always up-to-date. You can explore the full roster, complete with player stats, positions, and other relevant details.
+
 <img src="./BlazorApp1/ReadMeImages/CurrentRoster.png" alt="Roster" width="50%" />
 
 ### 2. **Team Needs**
 Check out the current team needs for the New York Jets, including positions that need improvement and potential areas the team might focus on in upcoming drafts or trades.
+
 <img src="./BlazorApp1/ReadMeImages/TeamNeeds.png" alt="Team Needs" width="50%" />
 
 ### 3. **Available Players**
